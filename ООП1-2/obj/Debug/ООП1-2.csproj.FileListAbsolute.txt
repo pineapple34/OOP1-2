@@ -1,0 +1,7 @@
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\bin\Debug\ООП1-2.exe.config
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\bin\Debug\ООП1-2.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\bin\Debug\ООП1-2.pdb
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\obj\Debug\ООП1-2.csprojAssemblyReference.cache
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\obj\Debug\ООП1-2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\obj\Debug\ООП1-2.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-2\ООП1-2\obj\Debug\ООП1-2.pdb
